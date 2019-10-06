@@ -1,0 +1,78 @@
+{"produse":[
+{
+"nume":"Samsung A50",
+"pret":1299,
+"imagine":"A50.JPG",
+"stoc":5,
+"descriere":"Bucurati-va de o experienta extinsa de vizionare, datorita afisajului Infinity-U si afisajului AMOLED Super si o mai buna securitate cu senzorul de amprenta pe ecran. Camera Tripla va ofera o inregistrare video de ultima ora experienta. Camera sa ultra-larga capteaza scene asa cum vedeti cu ochii vostri, in timp ce camera de adancime va permite sa captati fotografii utilizand efecte bokeh in timp real. De asemenea, bateria de lunga durata va permite sa va bucurati mai mult de continutul dvs. preferat."
+},
+
+{
+"nume":"Samsung Galaxy S10",
+"pret":2899,
+"imagine":"S10.JPG",
+"stoc":2,
+"descriere":"Telefon mobil Samsung Galaxy S10, Dual SIM, 128GB, 8GB RAM, 4G, Green Recreat complet pentru o experienta de vizionare neintrerupta. Fara margini care sa-ti distraga atentia. Ecranul elegant Infinity-O Display, decupat perfect cu laserul, cu securitate sporita si Dynamic AMOLED, este cel mai inovator ecran Galaxy de pana acum.Urmatoarea generatie de smartphone-uri cu ecran inteligent.Afisajul Infinity-O ofera o vedere cu adevarat neintrerupta.Am eliminat elementele care te pot distrage, pentru o experienta de vizionare ca la cinematograf. Prin decuparea perfecta cu laserul, camera este incorporata discret in ecran, fara a afecta calitatea fotografiilor.Senzorul de amprenta ultrasonic mascheaza perfect securitatea sporita.Am mutat senzorul de amprenta ultrasonic de pe spate in fata, creand un senzor revolutionar, pe ecran. Folosind impulsuri ultrasonice, detecteaza canelurile 3D si santurile amprentei tale, pentru a-ti permite sa accesezi telefonul. Este sigur si usor de folosit iti permite si sa deblochezi, sa tragi sau sa tii degetul pentru a deschide aplicatia dorita."
+},
+
+{
+"nume":"Huawei P20 Lite",
+"pret":899,
+"imagine":"HP20.JPG",
+"stoc":7,
+"descriere":"Huawei P20 lite are o noua camera frontala, cu un unghi mai larg si o calitate mai ridicata a imaginii. Cu 16 megapixeli (un pixel avand dimensiunea de 1,0 µm) si cu un FOV de 78°, aceasta camera e conceputa sa surprinda momente cu prietenii si familia, dar si sa realizeze cele mai bune selfie-uri. Cu apertura larga F2.0 si cu functiile de retusare 3D, care folosesc recunoasterea inteligenta si maparea faciala pentru a ajusta luminile si umbrele, poti conta pe portrete si prim-plan-uri extraordinare."
+},
+
+{
+"nume":"Apple Iphone XS",
+"pret":4999,
+"imagine":"iphoneXS10.JPG",
+"stoc":3,
+"descriere":"Acesta este cel mai puternic si mai inteligent cip care a intrat vreodata in constructia unui smartphone, impreuna cu procesorul nostru Neural Engine de ultima generatie. Pentru experiente uimitoare de realitate augmentata. Portrete incredibile cu Controlul adancimii de camp. Plus viteza si fluiditate in tot ceea ce faci.Performanta grafica cu pana la 50% mai rapida.Performanta a nucleelor cu pana la 15% mai rapida.Utilizarea bateriei de catre nucleele de eficienta, cu pana la 50% mai mica.Neural Enginecu 8 nuclee.Procesor de semnal imagine imbunatatit.Controler de performanta avansat."
+},
+
+{
+"nume":"Dell Inspiron 3573",
+"pret":999,
+"imagine":"Del1.JPG",
+"stoc":9,
+"descriere":"Exact ce va trebuie. Pentru tot ceea ce faceti.Laptop de 15 inchi cu performanta esentiala, prevazut cu procesoare de top, afisaj TrueLife elegant si baterie cu autonomie mare de functionare."
+},
+
+{
+"nume":"Laptop Gaming ASUS TUF FX505DT",
+"pret":3799,
+"imagine":"Asus1.JPG",
+"stoc":16,
+"descriere":"Laptop ASUS ROG FX505DT cu procesor AMD Ryzen 7-3750H pana la 4.00 GHz, 15.6, Full HD IPS, 8GB, 256GB SSD M.2 + 1TB HDD, NVIDIA GeForce GTX 1650 4GB GDDR5, Free DOS, Stealth Black ALIATI PENTRU PERFORMANTA ASUS TUF Gaming FX505 combina cele mai recente procesoare AMD Ryzen™ si solutii grafice NVIDIA GeForce GTX™ cu un ecran NanoEdge de nivel IPS cu rate de reimprospatare de pana la 120Hz, permitandu-ti sa te bucuri de performante ridicate in jocuri si imagini foarte realiste la un nivel de pret accesibil. Este testat si certificat la standardele militare MIL-STD-810G, asigurand robustetea si durabilitatea de care ai nevoie in conditiile de utilizare zilnica."
+},
+
+{
+"nume":"Laptop Gaming HP Pavilion",
+"pret":4999,
+"imagine":"HP1.JPG",
+"stoc":11,
+"descriere":"Laptop Gaming HP Pavilion - 15-dk0011nq cu procesor Intel® Core™ i7-9750H pana la 4.50 GHz, Coffee Lake, 15.6, Full HD, IPS, 8GB, 1TB + 256GB SSD, NVIDIA GeForce GTX 1660Ti 6GB, Free DOS, Shadow Black Randament zilnic ridicat. Redare puternica.Faci fata oricarei provocari cu procesorul Intel® Core™ din a 9-a generatie si grafica NVIDIA® GeForce®. Afisajul de inalta rezolutie cu rata rapida de reimprospatare ofera imagini pentru o experienta de joc cursiva, trezind divertismentul si continutul la viata."
+},
+
+{
+"nume":"Laptop Alienware Area-51m",
+"pret":24995,
+"imagine":"Alien1.JPG",
+"stoc":1,
+"descriere":"Disponibil cu Windows 10 Home: va puteti juca mai intens decat oricand pe Windows 10, explorand jocuri in format 4K, cu DirectX 12 si redandu-va totodata experienta in flux. CONSIDERATI CA JOCUL S-A SCHIMBAT Alienware Area-51m este diferit de orice dispozitiv mobil pentru jocuri creat vreodata. Cu puterea de procesare fara precedent, de nivel similar cu cea pentru desktopuri, posibilitate de upgrade pentru microprocesor si procesorul grafic, sistem avansat de racire si un design premium, revolutionar, adevarata experienta de joc de pe desktop este acum disponibila intr-un laptop."
+}
+
+],
+
+"cos" :[]
+}
+
+
+
+
+
+
+
+
+
